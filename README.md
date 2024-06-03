@@ -7,9 +7,11 @@ Notre objectif ?
 => Proposer une meilleure gestion de ses produits et de ses stocks à Naturalia, notamment afin de limiter le gaspillage.
 
 Nous avons divisé notre projet en plusieurs phases : 
-1 - l'exploration des données ;
-2 - le nettoyage des données ;
-3 - le feature engineering ;
-4 - la visualisation des données ;
-5 - la prévision des stocks.
+1 - l'exploration des données ; avec Python
+2 - le nettoyage des données ; avec Python
+3 - le feature engineering ; avec Python
+4 - la visualisation des données ; avec PowerBI
+5 - la prévision des stocks ; avec Python
+
+Bien que nous ayons utilisé SQL durant nos cas pratiques, cela n'était pas nécessaire pour ce projet.
 
