@@ -11,7 +11,7 @@ Nous avons divisé notre projet en plusieurs phases :
 2 - le nettoyage des données ; avec Python
 3 - le feature engineering ; avec Python
 4 - la visualisation des données ; avec PowerBI
-5 - la prévision des stocks ; avec Python
+5 - la prévision des stocks ; avec Python (machine learning)
 
 Bien que nous ayons utilisé SQL durant nos cas pratiques, cela n'était pas nécessaire pour ce projet.
 
