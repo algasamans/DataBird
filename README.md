@@ -15,4 +15,4 @@ Nous avons divisé notre projet en plusieurs phases :
 
 Bien que nous ayons utilisé SQL durant nos cas pratiques, cela n'était pas nécessaire pour ce projet.
 
-Vous trouverez ci-dessous les datasets après nettoyage et feature engineering que nous avons utilisé pour réaliser les rapports powerbi.
+Vous trouverez ci-dessous les datasets après nettoyage et feature engineering que nous avons utilisés pour réaliser les rapports powerbi.
